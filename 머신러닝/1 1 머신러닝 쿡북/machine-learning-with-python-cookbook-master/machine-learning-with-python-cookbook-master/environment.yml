@@ -1,0 +1,25 @@
+name: ml-cookbook
+dependencies:
+- python=3.7
+- ipython
+- jupyter
+- scikit-learn
+- numpy=1.16.2
+- matplotlib
+- pandas
+- opencv
+- cython
+- xlrd
+- sqlalchemy
+- beautifulsoup4
+- lxml
+- nltk
+- seaborn
+- pydotplus
+- pydot
+- pillow
+- pip:
+  - tensorflow
+  - keras
+  - fancyimpute
+  - konlpy
